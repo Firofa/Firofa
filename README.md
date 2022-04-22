@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Firofa
-- 👀 I’m interested in Web Development Using Codeigniter and Laravel
-- 🌱 I’m currently learning node js & react js
+- 👀 I’m interested in Web Development Using Codeigniter 3, Codeigniter 4 and React JS
+- 🌱 I’m currently learning node js & go language
 - 💞️ I’m looking to collaborate on any Web Project
 - 📫 How to reach me Email: rizifaarsien@gmail.com
 
