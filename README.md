@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Firofa
-- 📫 How to reach me Email: rizifaarsien@gmail.com
+- 📫 How to reach me Email: firofa.id@gmail.com
 
 <!---
 Firofa/Firofa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
